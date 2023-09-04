@@ -1,3 +1,3 @@
 # DL-project
- project for Deep Learning
+ Deep Learning project
 + Matteo Corona - Costanza Pagnin
